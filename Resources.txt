@@ -1,0 +1,3 @@
+Having gone through multiple websites, courses, books and articles, I personally find the following resources very helpful to learn PHP:
+
+1. www.w3schools.com/php
