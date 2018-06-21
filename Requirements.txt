@@ -1,0 +1,2 @@
+1. Text Editor, Eg. Notepad++, Sublime Text, etc.
+2. A web host with PHP and MySQL support, Eg. Xampp, or install a web server, PHP and MySQL
